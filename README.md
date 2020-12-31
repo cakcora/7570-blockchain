@@ -22,7 +22,7 @@ A specific problem will be assigned to each group, and the resulting Python/R co
 
 **Reading summary (text from N. Papernot)**
 
-A summary of assigned reading is due each class (starting from week 2 and onwards), one page for each assigned paper. A PDF copy should be emailed to Cuneyt.akcora@umanitoba.ca before the beginning of class. The summary should cover the following: (a) what did the papers do well?, (b) where did the papers fall short?, (c) what did you learn from these papers?, and (d) what questions do you have about the papers?
+A summary of assigned reading is due each class (starting from week 2 and onwards), one page for each assigned paper. A PDF copy should be emailed before the beginning of class. The summary should cover the following: (a) what did the papers do well?, (b) where did the papers fall short?, (c) what did you learn from these papers?, and (d) what questions do you have about the papers?
 
 **Paper presentation**
 
