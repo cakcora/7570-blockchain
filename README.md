@@ -1,14 +1,11 @@
-# **Blockchain Data Analytics Course, University of Manitoba, Canada**
+# **Blockchain Data Analytics Course**
 
-**Fall 2020**
+**Fall 2020, University of Manitoba, Canada**
 
-# Instructor Information
 
-| **Instructor** | **Email** | **Office Location &amp; Hours** |
-| --- | --- | --- |
-| **Cuneyt Gurcan Akcora** | Cuneyt.Akcora@ | E2-416, 09:30-10:45, Monday |
-
-# General Information
+# Instructor: Cuneyt Gurcan Akcora 
+ 
+ 
 
 ## Description
 
@@ -28,19 +25,14 @@ A summary of assigned reading is due each class (starting from week 2 and onward
 
 Starting from week 2, a team of students will present the papers assigned for reading each week. The team may choose an appropriate format (e.g., slides, interactive demos or code tutorials, ...) for this presentation with the only requirements being that the presentation should (a) involve the class in active discussions, (b) cover all papers assigned for reading, and (c) last no more than 1h30mn including discussions.
 
-**Class notes**
-
-Another team of students will be charged with writing notes synthesizing the content of the presentation and class discussion. This document will be maintained on Chainoba in Markdown files.
-
 **Research projects**
 
-Students will work on a course-long research project. Each project will be presented in the form of a poster in the last class. The software code will be contributed to the open source Chainoba project on Github.
+- Ripple Payment Graph Analysis
+- Ripple Trust Graph Analysis
+- MakerDAO Ecosystem Analysis
+- Bitcoin Darknet Market Transaction Fingerprinting
+- IOTA Transaction Graph Analysis
 
-**Prerequisites**
-
-Students need to be able to code in the statistical computing language R or/and Python.
-
-The course assumes students already have a basic understanding of Machine Learning and Data Mining. Undergraduate students will be admitted only if they have taken such a course.
 
 **Expectations and Goals**
 
@@ -55,63 +47,62 @@ Students will be able to achieve the following learning objectives at the comple
 - Extract and mine Smart Contracts on the Ethereum blockchain.
 
 # Course Materials
-
-## Required Materials
+ 
 
 The book &quot;Blockchain: Fundamentals, Data Structures and Algorithms for Data Science (Cambridge University Press)&quot; by Cuneyt Gurcan Akcora, Yulia R. Gel and, Murat Kantarcioglu will be provided in e-copy and used as the course book.
 
 # Course Schedule
 
-| **Week** | **Topic** | **Reading (In addition to the course book chapters)** |
-| --- | --- | --- |
-| **Week 1** | Networks, linking and consensus |
+ **Reading (In addition to the course book chapters)**  
+ 
+**Week 1** Networks, linking and consensus
 - Bitcoin&#39;s Academic Pedigree, Narayanan.
 - BlockSci: Design and applications of a blockchain analysis platform, Kalodner.
 - Blockchain Consensus Protocols in the Wild, Cachin.
- |
-| --- | --- | --- |
-| **Week 2-3** | Digital currencies, Cryptocurrencies |
+  
+**Week 2-3** Digital currencies, Cryptocurrencies
 - Bitcoin and beyond: A technical survey on decentralized digital currencies, Tschorch.
 - Bitcoin: A peer-to-peer electronic cash system, Nakamoto.
 - Blockchain: a graph primer, Akcora.
 - Core Concepts, Challenges, and Future Directions in Blockchain: A Centralized Tutorial, Kolb.
- |
-| **Week 4** | Blockchain Platforms, Smart Contracts |
+ 
+**Week 4** Blockchain Platforms, Smart Contracts 
 - Ethereum: A Next-Generation Smart Contract and Decentralized Application platform, Butterin.
 - Measuring Ethereum-based erc20 token networks, Victor.
 - A Classification Framework for Stablecoin Designs, Moin.
- |
-| **Week 5-6** | Graph Models for Blockchain Data Analytics |
+ 
+ 
+**Week 5-6** Graph Models for Blockchain Data Analytics 
 - Bitcoin Transaction Graph Analysis, Fleder.
 - Uncovering the Bitcoin blockchain: an analysis of the full users graph, DiFrancescoMaesa.
 - Quantitative Analysis of the Full Bitcoin Transaction Graph, Ron.
 - Forecasting bitcoin price with graph chainlets, Akcora.
 - Understanding Ethereum via Graph Analysis, Chen.
 - Iota Tangle: A cryptocurrency to communicate Internet-of-Things data, Silvano.
- |
-| **Week 7** | Influence and Centrality |
+
+**Week 7** Influence and Centrality 
 - Mint Centrality: A Centrality Measure for the Bitcoin Transaction Graph, Pontiveros.
 - Entropic centrality for non-atomic flow networks, Frederique.
 - The Graph Structure of Bitcoin, DiFrancescoMaesa.
 - Mind Your Credit: Assessing the Health of the Ripple Credit Network, Moreno-Sanchez.
- |
-| **Week 8** | Clustering |
+
+**Week 8** Clustering 
 - Clustering Blockchain Data, Chawathe.
 - A Fistful of Bitcoins: Characterizing Payments Among Men with No Names, Meiklejohn.
 - Tracing Transactions Across Cryptocurrency Ledgers, Meiklejohn.
 - Listening to Whispers of Ripple: Linking Wallets and Deanonymizing Transactions in the Ripple Network, Moreno-Sanchez.
 - An empirical analysis of anonymity in zcash, Kappos.
 - An empirical analysis of traceability in the Monero blockchain, Moser.
- |
-| **Week 9** | Anomaly Detection |
+
+**Week 9** Anomaly Detection 
 - [Egret: Extortion graph exploration techniques in the bitcoin network](javascript:void(0)), Datta.
 - BitcoinHeist: Topological data analysis for ransomware detection on the Bitcoin blockchain, Akcora.
 - Tracking Ransomware End-to-end, Huang.
 - Exploiting Blockchain Data to Detect Smart Ponzi Schemes on Ethereum, Chen.
 - The Anatomy of a Cryptocurrency Pump-and-Dump Scheme, Xu.
 - To the moon: defining and detecting cryptocurrency pump-and-dumps, Kamps.
- |
-| **Week 10** | Anomaly and Visualization |
+
+**Week 10** Anomaly and Visualization 
 - Assessing Holistic Impacts of Major Events on the Bitcoin Blockchain Network, Luo.
 - Detecting Ponzi Schemes on Ethereum: Towards Healthier Blockchain Technology, Chen.
 - [BiVA: Bitcoin Network Visualization &amp; Analysis](javascript:void(0)), Datta.
@@ -119,14 +110,14 @@ The book &quot;Blockchain: Fundamentals, Data Structures and Algorithms for Data
 - Visualizing dynamic bitcoin transaction patterns,McGinn **.**
 - Visualization of Blockchain Data: A Systematic Review, Tovanich
 - BitConduite: Visualizing and Analyzing Entity Activity on the Bitcoin Network, Kinkeldy.
- |
-| **Week 11** | Next generation blockchains, security/privacy. |
+
+**Week 11** Next generation blockchains, security/privacy. 
 - Blockchain-based Service Network (BSN) Introductory White Paper.
 - SoK: Off the Chain Transactions, Gudgeon.
 - Privacy in Blockchain Systems, Wahab and Danezis.
 - Security and Privacy on Blockchain, Zhang.
 
- |
-| **Week 12-13** | Project presentations |
- |
+
+**Week 12-13** Project presentations 
+ 
  
