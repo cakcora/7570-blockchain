@@ -27,11 +27,11 @@ Starting from week 2, a team of students will present the papers assigned for re
 
 **Research projects**
 
-- Ripple Payment Graph Analysis
-- Ripple Trust Graph Analysis
-- MakerDAO Ecosystem Analysis
-- Bitcoin Darknet Market Transaction Fingerprinting
-- IOTA Transaction Graph Analysis
+- Ripple Payment Graph Analysis. https://github.com/monowar-1994/RippleProject/
+- Ripple Trust Graph Analysis. https://github.com/akaler55/ripple_network_analysis
+- MakerDAO Ecosystem Analysis. https://github.com/MCSH/dao-analysis-7570
+- Bitcoin Darknet Market Transaction Fingerprinting. https://github.com/olayinkade/AdversarialMatching
+- IOTA Transaction Graph Analysis. https://github.com/Arezoovina/IOTA-7570Blockchain
 
 
 **Expectations and Goals**
