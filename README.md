@@ -42,6 +42,7 @@ The book &quot;Blockchain: Fundamentals, Data Structures and Algorithms for Data
 * Bitcoin darknet market analysis 3. https://github.com/jeeerdin/COMP7570-Group-Project
 * Bitcoin ransom analysis 1. 
 * Bitcoin ransom analysis 2. 
+* 
 2020
 * Ripple Payment Graph Analysis. https://github.com/monowar-1994/RippleProject/
 * Ripple Trust Graph Analysis. https://github.com/akaler55/ripple_network_analysis
