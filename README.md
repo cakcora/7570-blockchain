@@ -40,7 +40,7 @@ The book &quot;Blockchain: Fundamentals, Data Structures and Algorithms for Data
 * Bitcoin darknet market analysis 1. https://github.com/youn0808/BlockchainDataAnalytics
 * Bitcoin darknet market analysis 2. https://github.com/azad-p/BlockchainNetwork
 * Bitcoin darknet market analysis 3. https://github.com/jeeerdin/COMP7570-Group-Project
-* Bitcoin ransom analysis 1. 
+* Bitcoin ransom analysis 1. https://github.com/japjeet26/BlockchainDataProject
 * Bitcoin ransom analysis 2. 
 * 
 2020
